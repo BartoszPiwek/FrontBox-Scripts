@@ -1,0 +1,16 @@
+node_modules/
+.tscache
+.vscode
+*.log
+*.lock
+
+# Generated
+public
+documentation
+log
+yarn-error.log
+coverage
+
+# Maps
+*.map.*
+*.map

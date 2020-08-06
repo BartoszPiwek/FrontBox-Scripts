@@ -1,0 +1,10 @@
+{
+	"plugins": ["jsdoc-plugin-typescript"],
+	"typescript": {
+		"moduleRoot": "src"
+	},
+	"source": {
+		"includePattern": "**/*.ts"
+	},
+	"include": ["./src/components/burger/burger.ts"]
+}

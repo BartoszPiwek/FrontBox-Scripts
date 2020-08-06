@@ -1,0 +1,7 @@
+node_modules
+*.lock
+*.log
+playground
+package-lock.json
+documentation
+.vscode
